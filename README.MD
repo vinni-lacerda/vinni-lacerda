@@ -54,7 +54,7 @@ API REST desenvolvida em **Java + Spring Boot**, com CRUD completo de tarefas, s
 
 ---
 
-### 🔹 [Fridge API – Spring Boot](https://github.com/vinni-lacerda/fridgeApi)
+### 🔹 [Fridge API – Spring Boot](https://github.com/fvxstx/AV3_Software_Quality/tree/main)
 API para controle de “geladeiras inteligentes”, com foco em persistência e mapeamentos **OneToMany/ManyToOne**.  
 > 🧠 Projeto voltado a fixar **relacionamento entre entidades** e boas práticas do **padrão MVC**.
 
