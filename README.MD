@@ -75,7 +75,7 @@ API para controle de “geladeiras inteligentes”, com foco em persistência e 
 ## 🔥 Streak de Contribuições
 
 <div align="center">
-  <img height="180em" alt="GitHub Streak" src="https://github-readme-streak-stats.readme.so/api?user=vinni-lacerda&theme=dark&hide_border&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=00000000"/>
+  <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vinni-lacerda&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
