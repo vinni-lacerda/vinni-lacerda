@@ -28,7 +28,7 @@
 - 🧰 Maven, Lombok, Git  
 
 ### **Outros Conhecimentos**
-- 💡 C# + ASP.NET Core  
+- 💡 C#
 - 📫 JavaScript  
 - 🧱 PowerApps / Power Platform  
 - 🧪 GitHub Actions e CI/CD  
@@ -82,7 +82,7 @@ API para controle de “geladeiras inteligentes”, com foco em persistência e 
 
 ## 🎯 Objetivos Atuais
 
-- Conseguir meu **primeiro estágio em desenvolvimento back-end**.  
+- Conseguir meu **primeiro emprego em desenvolvimento back-end**.  
 - Aprofundar meu domínio em **Spring Boot, JPA e segurança JWT**.  
 - Criar uma base sólida de **testes unitários e integração contínua**.  
 - Fortalecer meu aprendizado em **Python** para automações e IA.  
