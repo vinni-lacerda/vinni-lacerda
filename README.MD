@@ -30,6 +30,7 @@
 ### **Outros Conhecimentos**
 - 💡 C#
 - 📫 JavaScript  
+- ⭐ HTML + CSS
 - 🧱 PowerApps / Power Platform  
 - 🧪 GitHub Actions e CI/CD  
 
