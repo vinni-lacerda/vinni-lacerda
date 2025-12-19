@@ -42,6 +42,8 @@
 Projeto desenvolvido durante um **workshop prático** para consolidar conceitos de **Spring Boot**, **JPA/Hibernate** e **relacionamentos entre entidades**.  
 > 🎯 Enfatiza o uso de **camadas bem definidas**, **persistência com banco relacional** e **injeção de dependência com Spring Context**.  
 > Ótimo exemplo de aplicação real das boas práticas aprendidas nos estudos.
+- Injeção de dependência (`@Autowired`)
+- Mapeamentos JPA (`@OneToMany`, `@ManyToOne`, `@ManyToMany`) 
 
 ---
 
@@ -56,8 +58,8 @@ API REST desenvolvida em **Java + Spring Boot**, com CRUD completo de tarefas, s
 ---
 
 ### 🔹 [Fridge API – Spring Boot](https://github.com/fvxstx/AV3_Software_Quality/tree/main)
-API para controle de “geladeiras inteligentes”, com foco em persistência e mapeamentos **OneToMany/ManyToOne**.  
-> 🧠 Projeto voltado a fixar **relacionamento entre entidades** e boas práticas do **padrão MVC**.
+API para controle de “geladeiras inteligentes”, com foco em testes unitários, integração e pipelines automatizados **CI/CD**.  
+> 🧠 Projeto voltado a fixar **o ciclo de vida dos teste** e boas práticas de **gestão e qualidade de software**.
 
 ---
 
