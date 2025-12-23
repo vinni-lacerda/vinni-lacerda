@@ -24,11 +24,11 @@
 - ☕ Java + Spring Boot  
 - 🧩 JPA / Hibernate  
 - 🐍 Python  
-- 🧠 MySQL / H2  
+- 🧠 MySQL / Postgres / H2  
 - 🧰 Maven, Lombok, Git  
 
 ### **Outros Conhecimentos**
-- 💡 C#
+- 💡 Junit, Mockito
 - 📫 JavaScript  
 - ⭐ HTML + CSS
 - 🧱 PowerApps / Power Platform  
