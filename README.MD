@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Vinícius Lacerda</h1>
+<h1 align="center">👋 Olá! Eu sou o Vinícius Lacerda!</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em código.<br>
