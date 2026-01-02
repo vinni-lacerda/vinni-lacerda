@@ -67,7 +67,9 @@ API para controle de “geladeiras inteligentes”, com foco em testes unitário
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinni-lacerda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats"/>
+  #<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinni-lacerda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats"/>
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinni-lacerda&show_icons=true&theme=tokyonight" />
+
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinni-lacerda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
 
