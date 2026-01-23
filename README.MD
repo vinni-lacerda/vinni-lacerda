@@ -32,7 +32,8 @@
 - 📫 JavaScript  
 - ⭐ HTML + CSS
 - 🧱 PowerApps / Power Platform  
-- 🧪 GitHub Actions e CI/CD  
+- 🧪 GitHub Actions e CI/CD
+- 🧠 Ia generativa
 
 ---
 
