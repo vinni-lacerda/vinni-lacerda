@@ -40,23 +40,23 @@
 ## 🧩 Projetos em Destaque
 
 
-###🔹 Order Management API – Spring Boot
+###🔹 [Order Management API – Spring Boot](https://github.com/vinni-lacerda/order-management-api)
 
 API REST para gestão de pedidos e itens, desenvolvida em Java + Spring Boot, com foco em arquitetura limpa, regras de negócio bem definidas e qualidade de código.
 
 🚀 Projeto mais robusto e próximo de um cenário real, indo além de um CRUD simples e explorando boas práticas usadas em aplicações profissionais.
 
-Uso de DTOs e Mappers para desacoplamento entre API e domínio
+> Uso de DTOs e Mappers para desacoplamento entre API e domínio
 
-Validações de negócio e tratamento de exceções customizadas
+> Validações de negócio e tratamento de exceções customizadas
 
-Separação em camadas (Controller, Service, Repository)
+> Separação em camadas (Controller, Service, Repository)
 
-Testes unitários e de integração
+> Testes unitários e de integração
 
-Modelagem de relacionamentos e consistência de dados
+> Modelagem de relacionamentos e consistência de dados
 
-Código orientado à legibilidade, manutenção e evolução
+> Código orientado à legibilidade, manutenção e evolução
 
 📘 Projeto em constante evolução, focado em aprofundar conhecimentos em Spring, testes e design de APIs REST.
 
