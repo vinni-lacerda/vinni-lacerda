@@ -39,22 +39,35 @@
 
 ## 🧩 Projetos em Destaque
 
+
+###🔹 Order Management API – Spring Boot
+
+API REST para gestão de pedidos e itens, desenvolvida em Java + Spring Boot, com foco em arquitetura limpa, regras de negócio bem definidas e qualidade de código.
+
+🚀 Projeto mais robusto e próximo de um cenário real, indo além de um CRUD simples e explorando boas práticas usadas em aplicações profissionais.
+
+Uso de DTOs e Mappers para desacoplamento entre API e domínio
+
+Validações de negócio e tratamento de exceções customizadas
+
+Separação em camadas (Controller, Service, Repository)
+
+Testes unitários e de integração
+
+Modelagem de relacionamentos e consistência de dados
+
+Código orientado à legibilidade, manutenção e evolução
+
+📘 Projeto em constante evolução, focado em aprofundar conhecimentos em Spring, testes e design de APIs REST.
+
+---
+
 ### 🔹 [Workshop Spring Boot JPA](https://github.com/vinni-lacerda/workshop-springboot-jpa)
 Projeto desenvolvido durante um **workshop prático** para consolidar conceitos de **Spring Boot**, **JPA/Hibernate** e **relacionamentos entre entidades**.  
 > 🎯 Enfatiza o uso de **camadas bem definidas**, **persistência com banco relacional** e **injeção de dependência com Spring Context**.  
 > Ótimo exemplo de aplicação real das boas práticas aprendidas nos estudos.
 - Injeção de dependência (`@Autowired`)
 - Mapeamentos JPA (`@OneToMany`, `@ManyToOne`, `@ManyToMany`) 
-
----
-
-### 🔹 [To-Do List API – Spring Boot](https://github.com/vinni-lacerda/todolist-springboot)
-API REST desenvolvida em **Java + Spring Boot**, com CRUD completo de tarefas, separação em camadas (Controller, Service, Repository) e uso de boas práticas de:
-- Injeção de dependência (`@Autowired`)
-- Transações (`@Transactional`)
-- Mapeamentos JPA (`@OneToMany`, `@ManyToOne`)  
-
-> 📘 Em evolução para incluir **testes unitários**, **autenticação JWT** e **documentação Swagger**.
 
 ---
 
