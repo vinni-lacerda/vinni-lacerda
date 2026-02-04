@@ -92,7 +92,7 @@ API para controle de “geladeiras inteligentes”, com foco em testes unitário
 ## 🔥 Streak de Contribuições
 
 <div align="center">
-  <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vinni-lacerda&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&random=1"/>
+  <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vinni-lacerda&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&random=2"/>
 </div>
 
 ---
