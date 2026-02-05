@@ -44,20 +44,20 @@
 
 API REST para gestão de pedidos e itens, desenvolvida em Java + Spring Boot, com foco em arquitetura limpa, regras de negócio bem definidas e qualidade de código.
 
-🚀 Projeto mais robusto e próximo de um cenário real, indo além de um CRUD simples e explorando boas práticas usadas em aplicações profissionais.
-```
-> Uso de DTOs e Mappers para desacoplamento entre API e domínio
+> 🚀 Projeto mais robusto e próximo de um cenário real, indo além de um CRUD simples e explorando boas práticas usadas em aplicações profissionais.
 
-> Validações de negócio e tratamento de exceções customizadas
+- Uso de DTOs e Mappers para desacoplamento entre API e domínio
 
-> Separação em camadas (Controller, Service, Repository)
+- Validações de negócio e tratamento de exceções customizadas
 
-> Testes unitários e de integração
+- Separação em camadas (Controller, Service, Repository)
 
-> Modelagem de relacionamentos e consistência de dados
+- Testes unitários e de integração
 
-> Código orientado à legibilidade, manutenção e evolução
-```
+- Modelagem de relacionamentos e consistência de dados
+
+- Código orientado à legibilidade, manutenção e evolução
+
 📘 Projeto em constante evolução, focado em aprofundar conhecimentos em Spring, testes e design de APIs REST.
 
 ---
