@@ -74,6 +74,8 @@ Projeto desenvolvido durante um **workshop prático** para consolidar conceitos 
 ### 🔹 [Fridge API – Spring Boot](https://github.com/fvxstx/AV3_Software_Quality/tree/main)
 API para controle de “geladeiras inteligentes”, com foco em testes unitários, integração e pipelines automatizados **CI/CD**.  
 > 🧠 Projeto voltado a fixar **o ciclo de vida dos teste** e boas práticas de **gestão e qualidade de software**.
+- Junit/Mockito
+- Trabalho em equipe
 
 ---
 
