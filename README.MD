@@ -40,7 +40,7 @@
 ## 🧩 Projetos em Destaque
 
 
-###🔹 [Order Management API – Spring Boot](https://github.com/vinni-lacerda/order-management-api)
+### 🔹 [Order Management API – Spring Boot](https://github.com/vinni-lacerda/order-management-api)
 
 API REST para gestão de pedidos e itens, desenvolvida em Java + Spring Boot, com foco em arquitetura limpa, regras de negócio bem definidas e qualidade de código.
 
