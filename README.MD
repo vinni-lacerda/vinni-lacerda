@@ -23,7 +23,7 @@
 ### **Back-end**
 - ☕ Java + Spring Boot  
 - 🧩 JPA / Hibernate  
-- 🐍 Python  
+- 🐍 javascript 
 - 🧠 MySQL / Postgres / H2  
 - 🧰 Maven, Lombok, Git  
 
