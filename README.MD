@@ -23,13 +23,12 @@
 ### **Back-end**
 - ☕ Java + Spring Boot  
 - 🧩 JPA / Hibernate  
-- 🐍 Javascript 
+- 📫 Javascript 
 - 🧠 MySQL / Postgres / H2  
 - 🧰 Maven, Lombok, Git  
 
 ### **Outros Conhecimentos**
 - 💡 Junit, Mockito
-- 📫 JavaScript  
 - ⭐ HTML + CSS
 - 🧱 PowerApps / Power Platform  
 - 🧪 GitHub Actions e CI/CD
