@@ -3,7 +3,7 @@
 <p align="center">
   💻 Desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em código.<br>
   Atualmente focado em <strong>Java com Spring Boot</strong>, explorando boas práticas de arquitetura, APIs RESTful e integração com banco de dados.<br>
-  Sou movido por aprendizado e desafio — estudo e programo todos os dias, conciliando <strong>faculdade</strong>, <strong>dois empregos</strong> e <strong>cursos paralelos</strong>, porque <strong>ninguém quer isso mais do que eu</strong>.
+  Sou movido por aprendizado e desafio — estudo e programo todos os dias, conciliando <strong>faculdade</strong>, <strong>emprego</strong> e <strong>cursos paralelos</strong>, porque <strong>ninguém quer isso mais do que eu</strong>.
 </p>
 
 ---
