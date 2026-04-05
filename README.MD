@@ -100,7 +100,7 @@ API para controle de “geladeiras inteligentes”, com foco em testes unitário
 
 ## 🎯 Objetivos Atuais
 
-- Conseguir meu **primeiro emprego em desenvolvimento back-end**.  
+- Conseguir meu **primeiro emprego em desenvolvimento back-end, front-end ou fullstack**.  
 - Aprofundar meu domínio em **Spring Boot, JPA e segurança JWT**.  
 - Criar uma base sólida de **testes unitários e integração contínua**.  
 - Fortalecer meu aprendizado em **Python** para automações e IA.  
