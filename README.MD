@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 </p>
@@ -76,18 +76,6 @@ API para controle de “geladeiras inteligentes”, com foco em testes unitário
 > 🧠 Projeto voltado a fixar **o ciclo de vida dos teste** e boas práticas de **gestão e qualidade de software**.
 - Junit/Mockito
 - Trabalho em equipe
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinni-lacerda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinni-lacerda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
-
-</div>
 
 ---
 
