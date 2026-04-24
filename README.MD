@@ -25,6 +25,7 @@
 - ☕ Java + Spring Boot  
 - 🧩 JPA / Hibernate  
 - 📫 Javascript 
+- react
 - 🧠 MySQL / Postgres / H2  
 - 🧰 Maven, Lombok, Git  
 
