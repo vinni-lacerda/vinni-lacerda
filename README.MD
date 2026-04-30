@@ -24,14 +24,16 @@
 ### **Back-end**
 - ☕ Java + Spring Boot  
 - 🧩 JPA / Hibernate  
-- 📫 Javascript 
-- ⚛️ React
 - 🧠 MySQL / Postgres / H2  
 - 🧰 Maven, Lombok, Git  
 
+### **Front-end**
+- 📫 Javascript 
+- ⚛️ React
+- ⭐ HTML + CSS
+
 ### **Outros Conhecimentos**
 - 💡 Junit, Mockito
-- ⭐ HTML + CSS
 - 🎲 PHP/Laravel
 - 🧱 PowerApps / Power Platform  
 - 🧪 GitHub Actions e CI/CD
