@@ -32,6 +32,7 @@
 ### **Outros Conhecimentos**
 - 💡 Junit, Mockito
 - ⭐ HTML + CSS
+- 🎲 PHP/Laravel
 - 🧱 PowerApps / Power Platform  
 - 🧪 GitHub Actions e CI/CD
 - 🧠 Ia generativa
