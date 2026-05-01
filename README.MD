@@ -95,6 +95,7 @@ API para controle de “geladeiras inteligentes”, com foco em testes unitário
 
 - Conseguir meu **primeiro emprego em desenvolvimento back-end, front-end ou fullstack**.  
 - Aprofundar meu domínio em **Spring Boot, JPA e segurança JWT**.  
+- Aprofundar dominio em algum framework front mais moderno(nextjs ex)
 - Criar uma base sólida de **testes unitários e integração contínua**.  
 - Fortalecer meu aprendizado em **Python** para automações e IA.  
 - Deixar meu **GitHub cada vez mais apresentável e técnico**.
